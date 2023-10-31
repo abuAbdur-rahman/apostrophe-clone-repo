@@ -10,7 +10,6 @@ npm-debug.log
 *.DS_Store
 *.npmignore
 .nyc_output
-.vscode
 .out
 coverage
 /node_modules
@@ -36,3 +35,7 @@ test/public/uploads
 
 # vim swp files
 .*.sw*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
